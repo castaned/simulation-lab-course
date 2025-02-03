@@ -8,7 +8,18 @@ Este repositorio contiene material para el curso de laboratorio en altas energia
 
 
 📦 Simulation-Lab-Course
-│── 📁 Delphes/                # Documentation (guides, syllabus, references)
+│── 📁 docs/                # Documentation (guides, syllabus, references)
+│── 📁 exercises/           # Hands-on exercises for students
+│── 📁 solutions/           # Solutions to exercises (hidden or private if needed)
+│── 📁 scripts/             # Useful scripts (setup, data generation, etc.)
+│── 📁 datasets/            # Example datasets for analysis
+│── 📁 notebooks/           # Jupyter notebooks for interactive learning
+│── 📁 delphes/             # Delphes installation and configuration files
+│── 📁 tests/               # Validation scripts and unit tests
+│── 📜 README.md            # Overview of the course
+│── 📜 INSTALL.md           # Installation instructions for Delphes & dependencies
+│── 📜 LICENSE              # Open-source license file (MIT, GPL, etc.)
+│── 📜 .gitignore           # Ignore unnecessary files (e.g., logs, datasets)
 │── 📁 FisMed/           # Hands-on exercises for students
 
 
