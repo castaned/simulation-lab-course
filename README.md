@@ -6,9 +6,11 @@ Este repositorio contiene material para el curso de laboratorio en altas energia
 
 ## Organizacion 
 
-📂 simulation-lab-course/
-│── 📂 Delphes/             # Hands-on exercises with solutions
-│── 📂 FisMed/              # Sample input files for simulations
+
+📦 Simulation-Lab-Course
+│── 📁 Delphes/                # Documentation (guides, syllabus, references)
+│── 📁 FisMed/           # Hands-on exercises for students
+
 
 
 
